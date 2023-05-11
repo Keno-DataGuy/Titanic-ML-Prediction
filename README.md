@@ -1,4 +1,4 @@
-# Titanic-Prediction
+# Titanic-ML-Prediction
 Machine learning model that predicts which passengers survived the Titanic shipwreck.
 
 This is the legendary Titanic ML competition on kaggle.
